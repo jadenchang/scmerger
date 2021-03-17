@@ -1,0 +1,53 @@
+<member-registration-transaction>
+    <transaction transactionIdentifier="AB-5014">
+
+        <fund>
+            <fund-id>651234</fund-id>
+            <fund-employer-identifier>321021234</fund-employer-identifier>
+        </fund>
+        <employer>
+            <employer-name>7-11</employer-name>
+            <employer-abn>98765432102</employer-abn>
+        </employer>
+
+        <members>
+            <member>
+                <member-tfn>87163193</member-tfn>
+                <member-number>740234</member-number>
+                <member-payrollnumber>7937842043</member-payrollnumber>
+            </member>
+            <member>
+                <member-tfn>87165194</member-tfn>
+                <member-number>740235</member-number>
+                <member-payrollnumber>9937842044</member-payrollnumber>
+            </member>
+        </members>
+    </transaction>
+
+    <transaction transactionIdentifier="AB-5015">
+        <fund>
+            <fund-id>651235</fund-id>
+            <fund-employer-identifier>321011235</fund-employer-identifier>
+        </fund>
+        <employer>
+            <employer-name>k-mart</employer-name>
+            <employer-abn>98765432101</employer-abn>
+        </employer>
+
+        <!--
+        <members>
+            <member>
+                <member-tfn></member-tfn>
+                <member-number></member-number>
+                <member-payrollnumber></member-payrollnumber>
+            </member>
+            <member>
+                <member-tfn></member-tfn>
+                <member-number></member-number>
+                <member-payrollnumber></member-payrollnumber>
+            </member>
+        </members>
+        -->
+    </transaction>
+
+</member-registration-transaction>
